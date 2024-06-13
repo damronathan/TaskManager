@@ -1,0 +1,7 @@
+C:\Users\19139\source\repos\TMP\TMP\bin\Debug\TMP.exe.config
+C:\Users\19139\source\repos\TMP\TMP\bin\Debug\TMP.exe
+C:\Users\19139\source\repos\TMP\TMP\bin\Debug\TMP.pdb
+C:\Users\19139\source\repos\TMP\TMP\obj\Debug\TMP.csproj.AssemblyReference.cache
+C:\Users\19139\source\repos\TMP\TMP\obj\Debug\TMP.csproj.CoreCompileInputs.cache
+C:\Users\19139\source\repos\TMP\TMP\obj\Debug\TMP.exe
+C:\Users\19139\source\repos\TMP\TMP\obj\Debug\TMP.pdb
